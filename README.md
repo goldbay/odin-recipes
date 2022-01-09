@@ -1,2 +1,2 @@
 # odin-recipes
-This is a recipe website.
+This is a recipe website that demonstrates basic HTML knowledge.
